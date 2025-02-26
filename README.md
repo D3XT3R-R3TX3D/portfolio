@@ -1,5 +1,4 @@
-# portfolio
-My personal portfolio
+# Daniel D. David's Portfolio
 In this portfolio, I use flexbox quite allot to space out my content.
 There's a brief home header, an about header, projects header, and a contact me header.
 The links at the left of the navigation bar doesn't go anywhere, but my github and linkedin are actually attached to the links at the right.
